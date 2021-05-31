@@ -1,2 +1,2 @@
-# DMM CAMP学習中の演習問題
-DMM WEBCAMP学習コンテンツ、演習問題です。
+# DMM CAMP学習中の確認問題等
+DMM WEBCAMP学習コンテンツ、確認問題です。
