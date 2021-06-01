@@ -17,3 +17,27 @@
   height: 400px;
   background-color: red;
 }
+
+.box {
+  width: 300px;
+  height: 300px;
+  border: 2px solid #fa5893;
+}
+
+.text {
+  color: #fa5893;
+}
+
+footer {
+  position: relative;
+}
+
+.position {
+  position: absolute;
+  right: 40px;
+  top: 100px;
+}
+
+.position i {
+  font-size: 32px;
+}
